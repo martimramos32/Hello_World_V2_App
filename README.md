@@ -3,7 +3,7 @@
 **Disciplina:** Desenvolvimento de Aplicações Móveis (DAM)
 **Aluno:** Martim Machado Ramos A51736
 **Data:** 7 de março de 2026
-**URL do Repositório:** [a publicar posteriormente o link do GitHub]
+**URL do Repositório:** https://github.com/martimramos32/Hello_World_V2_App
 
 ## 1. Introdução
 Este projeto é uma introdução ao Android Studio. O objetivo foi criar uma aplicação de telemóvel simples, perceber onde ficam guardados os ficheiros e aprender a mexer nos elementos visuais do ecrã ("activity_main.xml").
